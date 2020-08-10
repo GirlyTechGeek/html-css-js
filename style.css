@@ -1,0 +1,39 @@
+body{
+	background-color: green;
+	padding-top: 30px;
+	
+}
+
+section{
+	float: left;
+	width: 100%;
+
+}
+.p1{
+	font-style: oblique;
+	float: right;
+	margin: 30px;
+
+}
+.pic{
+	float: left;
+}
+div .p1{
+	width: 900px;
+	height: 30px;
+}
+.backwhite{
+	background-color: ivory;
+	height: 1600px;
+	width: 950px;
+	padding-top: 30px;
+}
+
+p{
+	float: right;
+}
+
+.image{
+	float: right;
+
+}
